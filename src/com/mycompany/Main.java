@@ -6,4 +6,8 @@ public class Main {
 	// write your code here
         System.out.println("Hello World");
     }
+
+    public static int sumOfTwo(int a, int b){
+        return a+b;
+    }
 }
